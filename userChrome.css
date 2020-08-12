@@ -111,14 +111,14 @@
 	--bf-urlbar-font-size: 12pt;
 	--bf-urlbar-font-weight: 500;
 	
-	--bf-navbar-padding: 6px;
+	--bf-navbar-padding: 4px;
 	--bf-switch-tab-color: #6498EF;
 	--bf-bookmark-color: #53E2AE;
 	
 	--bf-tab-font-size: 11pt;
 	--bf-tab-font-weight: 400;
-	--bf-tab-height: 36px;
-	--bf-tab-border-radius: 8px;
+	--bf-tab-height: 16px;
+	--bf-tab-border-radius: 16px;
 	--bf-tab-soundplaying-bg: #985EFFCC;
 
 	--default-arrowpanel-color: #fefefa !important;
